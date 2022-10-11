@@ -1,0 +1,5 @@
+arcface_model/
+checkpoints/
+parsing_model/
+insightface_func/models/
+*.patch
